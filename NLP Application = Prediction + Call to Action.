@@ -1,0 +1,119 @@
+NLP Application = Prediction + Call to Action
+
+Meaning
+
+1. Prediction
+
+NLP first understands the text and predicts the intent, sentiment, category, or meaning.
+
+Example:
+
+Customer Message:
+
+"I want to book a hotel in Chennai."
+
+Prediction:
+
+Intent = Hotel Booking
+
+2. Call to Action
+
+After prediction, the system performs an action based on the prediction.
+
+Action:
+
+Show available hotels in Chennai.
+
+Real-World Examples
+Example 1: Email Spam Filter
+
+Input:
+
+"You won ₹50,000. Click here."
+
+Prediction:
+
+Spam Email
+
+Call to Action:
+
+Move email to Spam Folder
+
+NLP Application:
+
+Gmail Spam Detection
+
+Example 2: Amazon Review
+
+Review:
+
+"This product is excellent."
+
+Prediction:
+
+Positive Sentiment 😊
+
+Call to Action:
+
+Increase product rating score / Show positive review
+
+NLP Application:
+
+Review Analysis System
+
+Example 3: ChatGPT
+
+Input:
+
+"What is Machine Learning?"
+
+Prediction:
+
+User is asking a question
+
+Call to Action:
+
+Generate an answer
+
+NLP Application:
+
+AI Chatbot
+
+Example 4: Voice Assistant
+
+Input:
+
+"Set an alarm for 6 AM"
+
+Prediction:
+
+Alarm Intent
+
+Call to Action:
+
+Create alarm
+
+NLP Application:
+
+Alexa / Siri / Google Assistant
+
+Flow Diagram
+------------
+
+
+User Input
+     ↓
+NLP Analysis
+     ↓
+Prediction
+(Intent / Sentiment / Category)
+     ↓
+Call to Action
+(Perform Task)
+     ↓
+NLP Application Result
+
+
+
+NLP Application works by first predicting the user's intent or meaning from the text 
+and then performing an appropriate action. Therefore, NLP Application = Prediction + Call to Action.
