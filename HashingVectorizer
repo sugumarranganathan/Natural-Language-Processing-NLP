@@ -1,0 +1,109 @@
+HashingVectorizer is an NLP technique that converts text into numbers using a hash function instead of storing a vocabulary dictionary.
+
+Simple Definition
+
+HashingVectorizer converts text into numerical vectors by mapping words to fixed columns using mathematical hashing.
+
+========
+
+
+Real-Time Example
+
+Review
+
+This movie is amazing
+CountVectorizer
+
+Creates a vocabulary:
+
+| Word    | Index |
+| ------- | ----- |
+| this    | 0     |
+| movie   | 1     |
+| amazing | 2     |
+
+Output:
+
+[1,1,1]
+
+It stores the vocabulary.
+
+===============
+
+HashingVectorizer
+
+Does NOT create a vocabulary.
+
+Instead:
+
+this    → column 15
+movie   → column 120
+amazing → column 78
+
+Output:
+
+[0,0,0,1,0,0,1,...]
+
+Words are placed into columns using a hash formula.
+
+===============
+
+Work Flow
+
+| Step | Process                       |
+| ---- | ----------------------------- |
+| 1    | Input Text                    |
+| 2    | Hash Function Applied         |
+| 3    | Words Mapped to Fixed Columns |
+| 4    | Numerical Vector Created      |
+| 5    | Sent to ML Model              |
+
+=================
+
+CountVectorizer vs TF-IDF vs HashingVectorizer
+----------------------------------------------
+
+
+| Feature                 | CountVectorizer | TF-IDF | HashingVectorizer |
+| ----------------------- | --------------- | ------ | ----------------- |
+| Counts Words            | ✅               | ✅      | ✅                 |
+| Stores Vocabulary       | ✅               | ✅      | ❌                 |
+| Memory Usage            | High            | Medium | Low               |
+| Speed                   | Medium          | Medium | Fast              |
+| Suitable for Large Data | ❌               | ❌      | ✅                 |
+| Interpretable Features  | ✅               | ✅      | ❌                 |
+
+==================
+
+Why Use HashingVectorizer?
+
+Suppose:
+
+Dataset = 10 Million Tweets
+
+CountVectorizer:
+
+Vocabulary = 500,000 words
+Memory = Very High
+
+HashingVectorizer:
+
+No Vocabulary Storage
+Memory = Low
+Processing = Faster
+
+That's why it's used for large-scale NLP systems.
+
+==================
+
+| Question                   | Answer                                                                                          |
+| -------------------------- | ----------------------------------------------------------------------------------------------- |
+| What is HashingVectorizer? | A text vectorization technique that converts text into numerical vectors using a hash function. |
+| Does it store vocabulary?  | No.                                                                                             |
+| Why is it faster?          | It does not maintain a word dictionary.                                                         |
+| Main advantage?            | Low memory usage and high speed.                                                                |
+| Main disadvantage?         | We cannot easily know which word corresponds to which feature.                                  |
+
+
+=================
+
