@@ -1,5 +1,3 @@
-# Movie_Review_Sentiment_Analysis_Using_TF_IDF_Vectorizer_and_Multinomial_Naive_Bayes
-
 https://colab.research.google.com/drive/1PHQ8XSUmnK3LIqJ1kzoM-veECwWL3uj8#scrollTo=_Za0H8zRfbwS
 
 # 🎬 Movie Review Sentiment Analysis Using TF-IDF Vectorizer and Multinomial Naive Bayes
