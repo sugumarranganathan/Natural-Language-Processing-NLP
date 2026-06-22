@@ -1,0 +1,67 @@
+NLP Complete Flow
+-----------------
+
+Text
+ ↓
+Preprocessing
+ ↓
+Vectorization
+(Count Vectorizer / TF-IDF)
+ ↓
+ML Algorithm
+(Logistic Regression,
+ Naive Bayes,
+ SVM, etc.)
+ ↓
+Prediction
+ ↓
+Result
+
+============
+
+Real-World Example: Sentiment Analysis
+Input
+
+"The product is amazing"
+
+Step 1: Vectorization
+[0.45, 0.82, 0.21]
+Step 2: ML Algorithm
+
+Logistic Regression analyzes the vector.
+
+Step 3: Prediction
+Positive Review 😊
+
+==============
+
+Which Algorithms Are Most Used in NLP?
+
+| Algorithm           | NLP Usage |
+| ------------------- | --------- |
+| Naive Bayes         | ⭐⭐⭐⭐⭐     |
+| Logistic Regression | ⭐⭐⭐⭐⭐     |
+| SVM                 | ⭐⭐⭐⭐      |
+| Random Forest       | ⭐⭐⭐       |
+| KNN                 | ⭐⭐        |
+| Neural Networks     | ⭐⭐⭐⭐⭐     |
+
+
+=============
+
+Machine Learning algorithms are mathematical models that learn patterns from numerical data (vectors) and make predictions. 
+In NLP, algorithms such as Naive Bayes, Logistic Regression, SVM, and Neural Networks are used for tasks like spam detection, 
+sentiment analysis, text classification, and chatbots
+
+=============
+
+Text → Vector → ML Algorithm → Prediction
+
+Example:
+
+"I love this product"
+→ TF-IDF Vector
+→ Logistic Regression
+→ Positive Review 😊
+
+=============
