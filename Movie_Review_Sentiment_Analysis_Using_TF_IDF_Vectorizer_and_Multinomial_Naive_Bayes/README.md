@@ -254,5 +254,3 @@ The model achieved an accuracy of **85.31%**, demonstrating that NLP techniques 
 **Sugumar Ranganathan, M.B.A.,**
 
 Email: contact.sugumarai@gmail.com
-
-GitHub: https://github.com/sugumarranganathan
