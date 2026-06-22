@@ -1,0 +1,180 @@
+How a Computer Understands Text in NLP.
+
+Main Idea
+
+Computers cannot understand text directly.
+
+Humans understand:
+
+"I love Data Science"
+
+But computers understand only:
+
+101010... (numbers)
+
+So NLP converts Text → Numbers (Vectors).
+
+Process Flow
+------------
+
+Text
+  ↓
+Vectorization
+  ↓
+Numbers (Vectors)
+  ↓
+Machine Learning Model
+  ↓
+Prediction
+
+Example
+Input Text
+
+"I love Data Science"
+
+Step 1: Split into Words
+
+["I", "love", "Data", "Science"]
+
+Step 2: Convert into Numbers
+
+
+
+| Word    | Number |
+| ------- | ------ |
+| I       | 1      |
+| love    | 2      |
+| Data    | 3      |
+| Science | 4      |
+
+
+Vector:
+
+[1, 2, 3, 4]
+
+Now the computer can process it.
+
+Methods Mentioned in Slide
+1. Count Vectorizer
+
+Counts how many times each word appears.
+
+Example
+
+Text 1:
+
+I love AI
+
+Text 2:
+
+AI loves Python
+
+Vocabulary:
+
+
+I, love, AI, loves, Python
+
+| Word   | Text1 | Text2 |
+| ------ | ----- | ----- |
+| I      | 1     | 0     |
+| love   | 1     | 0     |
+| AI     | 1     | 1     |
+| loves  | 0     | 1     |
+| Python | 0     | 1     |
+
+
+This table is called a Count Vector.
+
+Use
+
+Spam Detection
+Sentiment Analysis
+==========
+
+2. TF-IDF Vectorizer
+
+TF-IDF = Term Frequency × Inverse Document Frequency
+
+It gives importance score to words.
+
+Example
+
+Document:
+
+AI is good. AI is powerful.
+
+Word "AI" appears often.
+
+TF-IDF calculates how important "AI" is compared to all documents.
+
+Use
+Search Engines
+Document Ranking
+Resume Matching
+
+==========
+
+3. Hash Vectorizer
+
+Converts words directly into numbers using a hash function.
+
+Example
+AI      → 234
+Python  → 876
+NLP     → 456
+Use
+Large datasets
+Faster processing
+Memory efficient
+
+
+Real-World Example
+Gmail Spam Detection
+
+Email:
+
+"Congratulations! You won ₹50,000"
+
+Step 1
+
+Text converted into vectors
+
+[0.82, 0.45, 0.91, 0.12]
+Step 2
+
+Machine Learning Model checks pattern
+
+Step 3
+
+Prediction
+
+Spam
+Why Convert Text to Numbers?
+
+Machine Learning algorithms such as:
+
+Logistic Regression
+Naive Bayes
+SVM
+Random Forest
+Neural Networks
+
+work only with numerical data, not text.
+
+So:
+
+Text
+ ↓
+Vectorization
+ ↓
+Numbers
+ ↓
+Model Training
+ ↓
+Prediction
+
+=============
+
+"Computers cannot understand text directly. In NLP, text is converted into numerical vectors 
+using techniques such as Count Vectorizer, TF-IDF, and Hash Vectorizer. 
+These vectors are then used by Machine Learning models for analysis and prediction."
