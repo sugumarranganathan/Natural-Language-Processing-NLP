@@ -1,0 +1,63 @@
+Simple Definition
+1. fit()
+
+👉 Learns from the data.
+
+It studies the data and stores information.
+
+vectorizer.fit(text_data)
+2. fit_transform()
+
+👉 Learns the data + Converts the data.
+
+vectorizer.fit_transform(text_data)
+
+It performs:
+
+fit() + transform()
+
+in one step.
+
+=============
+
+What is fit()?
+
+fit() learns the patterns, parameters, or vocabulary from the training data.
+
+What is fit_transform()?
+
+fit_transform() first learns the data using fit() and then converts the data into a transformed format such as vectors.
+
+============
+
+Easy Memory Trick
+fit()
+Study the textbook
+
+transform()
+Write the exam
+
+fit_transform()
+Study + Write Exam together
+
+==============
+
+NLP Example
+-----------
+
+Text
+ ↓
+fit()
+Learn Vocabulary
+ ↓
+transform()
+Convert Text → Numbers
+ ↓
+Machine Learning Model
+ ↓
+Prediction
+
+==============
+
+
+
