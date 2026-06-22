@@ -1,0 +1,155 @@
+A Machine Learning Algorithm is a mathematical method that learns patterns from data and makes predictions.
+
+Simple Example
+
+Suppose we have email data:
+
+| Email Text       | Result   |
+| ---------------- | -------- |
+| Win ₹10,000 now  | Spam     |
+| Meeting at 5 PM  | Not Spam |
+| Free Offer Today | Spam     |
+
+The ML algorithm studies these examples and learns:
+
+"Words like Win, Free, Offer often appear in Spam emails."
+
+When a new email arrives:
+
+"Free Mobile Offer"
+
+The algorithm predicts:
+
+Spam ✅
+
+========
+
+Common ML Algorithms in NLP
+
+1. Logistic Regression
+Use
+Spam Detection
+Sentiment Analysis
+Example
+
+Review:
+
+"This movie is excellent."
+
+Output:
+
+Positive 😊
+
+============
+
+2. Naive Bayes
+Use
+Text Classification
+Email Spam Detection
+Why Popular in NLP?
+Fast
+Simple
+Works well with text data
+Example
+
+Message:
+
+"Congratulations! You won a prize."
+
+Output:
+
+Spam
+
+============
+
+3. Decision Tree
+Use
+
+Makes decisions using question branches.
+
+Example:
+
+Contains "Free"?
+      |
+    Yes
+      |
+   Spam
+
+=============
+
+4. Random Forest
+Use
+
+Combination of many Decision Trees.
+
+Advantage
+More accurate
+Less overfitting
+Example
+
+Predict:
+
+Positive Review
+Negative Review
+
+==============
+
+5. Support Vector Machine (SVM)
+Use
+
+Text Classification
+
+Example
+
+Classify News:
+
+| News             | Category |
+| ---------------- | -------- |
+| India wins match | Sports   |
+| Election results | Politics |
+
+
+==============
+
+6. K-Nearest Neighbors (KNN)
+Use
+
+Finds similar texts.
+
+Example
+
+Movie Reviews:
+
+New Review:
+
+Amazing acting and story
+
+Looks similar to positive reviews.
+
+Output:
+
+Positive
+============
+
+7. Neural Networks
+Use
+
+Advanced NLP Tasks
+
+Examples:
+
+ChatGPT
+Google Translate
+Voice Assistants
+
+=============
+
+
+
+
+
+
+
+
+
+
