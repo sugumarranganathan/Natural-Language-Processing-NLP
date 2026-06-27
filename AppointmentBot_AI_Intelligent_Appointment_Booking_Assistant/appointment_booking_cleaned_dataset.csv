@@ -1,0 +1,192 @@
+Message,Label,Message_Length,Clean_Text,Word_Count
+Please book my appointment with the orthopedic specialist.,Booking,58,pleas book appoint orthoped specialist,5
+Good morning.,Non-Booking,13,good morn,2
+Hello.,Non-Booking,6,hello,1
+Book a consultation for tomorrow.,Booking,33,book consult tomorrow,3
+Where is your clinic located?,Non-Booking,29,clinic locat,2
+Do you accept insurance?,Non-Booking,24,accept insur,2
+I have a question about your services.,Non-Booking,38,question servic,2
+Can you schedule my checkup on Monday?,Booking,38,schedul checkup monday,3
+I want to book an appointment for Friday.,Booking,41,want book appoint friday,4
+Can you schedule my checkup on tomorrow?,Booking,40,schedul checkup tomorrow,3
+Please reserve my appointment.,Booking,30,pleas reserv appoint,3
+Is there an appointment available on Thursday?,Booking,46,appoint avail thursday,3
+Is there an appointment available on this evening?,Booking,50,appoint avail even,3
+Can you share your contact number?,Non-Booking,34,share contact number,3
+Need an appointment with the neurologist.,Booking,41,need appoint neurologist,3
+Is there an appointment available on tomorrow?,Booking,46,appoint avail tomorrow,3
+Need an appointment with the cardiologist.,Booking,42,need appoint cardiologist,3
+Is there an appointment available on next week?,Booking,47,appoint avail next week,4
+I'd like to reserve a slot for Wednesday.,Booking,41,id like reserv slot wednesday,5
+Is there an appointment available on Friday?,Booking,44,appoint avail friday,3
+What are your working hours?,Non-Booking,28,work hour,2
+Can I schedule a visit on Friday?,Booking,33,schedul visit friday,3
+I would like to meet the pediatrician on Saturday.,Booking,50,would like meet pediatrician saturday,5
+Book a consultation for Tuesday.,Booking,32,book consult tuesday,3
+How much is the consultation fee?,Non-Booking,33,much consult fee,3
+Book a consultation for Friday.,Booking,31,book consult friday,3
+I want to book an appointment for tomorrow.,Booking,43,want book appoint tomorrow,4
+I'd like to reserve a slot for Monday.,Booking,38,id like reserv slot monday,5
+Can you schedule my checkup on Saturday?,Booking,40,schedul checkup saturday,3
+Please book my appointment with the cardiologist.,Booking,49,pleas book appoint cardiologist,4
+I want to book an appointment for Monday.,Booking,41,want book appoint monday,4
+I'd like to reserve a slot for Thursday.,Booking,40,id like reserv slot thursday,5
+Thank you for your help.,Non-Booking,24,thank help,2
+Can you schedule my checkup on this evening?,Booking,44,schedul checkup even,3
+I'd like to reserve a slot for Tuesday.,Booking,39,id like reserv slot tuesday,5
+I want to book an appointment for next Monday.,Booking,46,want book appoint next monday,5
+I'd like to reserve a slot for this evening.,Booking,44,id like reserv slot even,5
+Is there an appointment available on next Monday?,Booking,49,appoint avail next monday,4
+Is there an appointment available on Tuesday?,Booking,45,appoint avail tuesday,3
+I would like to meet the dermatologist on Monday.,Booking,49,would like meet dermatologist monday,5
+I would like to meet the eye specialist on next week.,Booking,53,would like meet eye specialist next week,7
+I would like to meet the neurologist on Monday.,Booking,47,would like meet neurologist monday,5
+Please send me the address.,Non-Booking,27,pleas send address,3
+Can you schedule my checkup on Tuesday?,Booking,39,schedul checkup tuesday,3
+I'd like to reserve a slot for Friday.,Booking,38,id like reserv slot friday,5
+Book a consultation for this evening.,Booking,37,book consult even,3
+Please book my appointment with the ENT specialist.,Booking,51,pleas book appoint ent specialist,5
+Book a consultation for Saturday.,Booking,33,book consult saturday,3
+Need an appointment with the eye specialist.,Booking,44,need appoint eye specialist,4
+I want to book an appointment for Wednesday.,Booking,44,want book appoint wednesday,4
+Need an appointment with the orthopedic specialist.,Booking,51,need appoint orthoped specialist,4
+I'd like to reserve a slot for Saturday.,Booking,40,id like reserv slot saturday,5
+I would like to meet the eye specialist on Monday.,Booking,50,would like meet eye specialist monday,6
+Need an appointment with the doctor.,Booking,36,need appoint doctor,3
+I'd like to reserve a slot for next Monday.,Booking,43,id like reserv slot next monday,6
+I want to book an appointment for Tuesday.,Booking,42,want book appoint tuesday,4
+I want to book an appointment for next week.,Booking,44,want book appoint next week,5
+I would like to meet the doctor on Tuesday.,Booking,43,would like meet doctor tuesday,5
+Is there an appointment available on Monday?,Booking,44,appoint avail monday,3
+Can you schedule my checkup on Thursday?,Booking,40,schedul checkup thursday,3
+Can I schedule a visit on Wednesday?,Booking,36,schedul visit wednesday,3
+Can you schedule my checkup on Friday?,Booking,38,schedul checkup friday,3
+Please book my appointment with the pediatrician.,Booking,49,pleas book appoint pediatrician,4
+I'd like to reserve a slot for next week.,Booking,41,id like reserv slot next week,6
+Book a consultation for Monday.,Booking,31,book consult monday,3
+I want to book an appointment for Saturday.,Booking,43,want book appoint saturday,4
+I would like to meet the pediatrician on Monday.,Booking,48,would like meet pediatrician monday,5
+Please book my appointment with the eye specialist.,Booking,51,pleas book appoint eye specialist,5
+Is there an appointment available on Wednesday?,Booking,47,appoint avail wednesday,3
+Book a consultation for Wednesday.,Booking,34,book consult wednesday,3
+I would like to meet the eye specialist on this evening.,Booking,56,would like meet eye specialist even,6
+I would like to meet the ENT specialist on tomorrow.,Booking,52,would like meet ent specialist tomorrow,6
+Please book my appointment with the neurologist.,Booking,48,pleas book appoint neurologist,4
+Please book my appointment with the dentist.,Booking,44,pleas book appoint dentist,4
+Book a consultation for Thursday.,Booking,33,book consult thursday,3
+I want to book an appointment for this evening.,Booking,47,want book appoint even,4
+Book a consultation for next Monday.,Booking,36,book consult next monday,4
+I would like to meet the cardiologist on Friday.,Booking,48,would like meet cardiologist friday,5
+I would like to meet the eye specialist on Tuesday.,Booking,51,would like meet eye specialist tuesday,6
+Can I schedule a visit on next Monday?,Booking,38,schedul visit next monday,4
+Can I schedule a visit on this evening?,Booking,39,schedul visit even,3
+Please book my appointment with the doctor.,Booking,43,pleas book appoint doctor,4
+I would like to meet the physician on next week.,Booking,48,would like meet physician next week,6
+Book a consultation for next week.,Booking,34,book consult next week,4
+Please book my appointment with the dermatologist.,Booking,50,pleas book appoint dermatologist,4
+Can I schedule a visit on Thursday?,Booking,35,schedul visit thursday,3
+Can I schedule a visit on Tuesday?,Booking,34,schedul visit tuesday,3
+Need an appointment with the ENT specialist.,Booking,44,need appoint ent specialist,4
+Can you schedule my checkup on Wednesday?,Booking,41,schedul checkup wednesday,3
+Need an appointment with the dermatologist.,Booking,43,need appoint dermatologist,3
+I would like to meet the orthopedic specialist on Friday.,Booking,57,would like meet orthoped specialist friday,6
+Can I schedule a visit on tomorrow?,Booking,35,schedul visit tomorrow,3
+Can I schedule a visit on next week?,Booking,36,schedul visit next week,4
+I would like to meet the dermatologist on next Monday.,Booking,54,would like meet dermatologist next monday,6
+Need an appointment with the dentist.,Booking,37,need appoint dentist,3
+Please book my appointment with the physician.,Booking,46,pleas book appoint physician,4
+I would like to meet the doctor on next Monday.,Booking,47,would like meet doctor next monday,6
+Can you schedule my checkup on next Monday?,Booking,43,schedul checkup next monday,4
+Can I schedule a visit on Monday?,Booking,33,schedul visit monday,3
+Can you schedule my checkup on next week?,Booking,41,schedul checkup next week,4
+I would like to meet the dentist on next week.,Booking,46,would like meet dentist next week,6
+Can I schedule a visit on Saturday?,Booking,35,schedul visit saturday,3
+I would like to meet the eye specialist on Friday.,Booking,50,would like meet eye specialist friday,6
+I would like to meet the dentist on Tuesday.,Booking,44,would like meet dentist tuesday,5
+I would like to meet the pediatrician on Wednesday.,Booking,51,would like meet pediatrician wednesday,5
+Need an appointment with the pediatrician.,Booking,42,need appoint pediatrician,3
+Is there an appointment available on Saturday?,Booking,46,appoint avail saturday,3
+I would like to meet the neurologist on Wednesday.,Booking,50,would like meet neurologist wednesday,5
+I would like to meet the physician on Saturday.,Booking,47,would like meet physician saturday,5
+I would like to meet the physician on tomorrow.,Booking,47,would like meet physician tomorrow,5
+I would like to meet the neurologist on Thursday.,Booking,49,would like meet neurologist thursday,5
+I would like to meet the dentist on Monday.,Booking,43,would like meet dentist monday,5
+I would like to meet the dermatologist on this evening.,Booking,55,would like meet dermatologist even,5
+I want to book an appointment for Thursday.,Booking,43,want book appoint thursday,4
+I would like to meet the doctor on tomorrow.,Booking,44,would like meet doctor tomorrow,5
+I would like to meet the pediatrician on next Monday.,Booking,53,would like meet pediatrician next monday,6
+I would like to meet the doctor on Monday.,Booking,42,would like meet doctor monday,5
+I would like to meet the ENT specialist on next week.,Booking,53,would like meet ent specialist next week,7
+Need an appointment with the physician.,Booking,39,need appoint physician,3
+I would like to meet the ENT specialist on Tuesday.,Booking,51,would like meet ent specialist tuesday,6
+I would like to meet the eye specialist on tomorrow.,Booking,52,would like meet eye specialist tomorrow,6
+I would like to meet the dentist on Saturday.,Booking,45,would like meet dentist saturday,5
+I would like to meet the physician on Wednesday.,Booking,48,would like meet physician wednesday,5
+I would like to meet the eye specialist on next Monday.,Booking,55,would like meet eye specialist next monday,7
+I'd like to reserve a slot for tomorrow.,Booking,40,id like reserv slot tomorrow,5
+I would like to meet the dermatologist on tomorrow.,Booking,51,would like meet dermatologist tomorrow,5
+I would like to meet the orthopedic specialist on Saturday.,Booking,59,would like meet orthoped specialist saturday,6
+I would like to meet the ENT specialist on Saturday.,Booking,52,would like meet ent specialist saturday,6
+I would like to meet the orthopedic specialist on next week.,Booking,60,would like meet orthoped specialist next week,7
+I would like to meet the physician on Tuesday.,Booking,46,would like meet physician tuesday,5
+I would like to meet the pediatrician on Thursday.,Booking,50,would like meet pediatrician thursday,5
+I would like to meet the cardiologist on Wednesday.,Booking,51,would like meet cardiologist wednesday,5
+I would like to meet the dermatologist on next week.,Booking,52,would like meet dermatologist next week,6
+I would like to meet the ENT specialist on this evening.,Booking,56,would like meet ent specialist even,6
+I would like to meet the dentist on tomorrow.,Booking,45,would like meet dentist tomorrow,5
+I would like to meet the physician on this evening.,Booking,51,would like meet physician even,5
+I would like to meet the physician on Friday.,Booking,45,would like meet physician friday,5
+I would like to meet the dermatologist on Tuesday.,Booking,50,would like meet dermatologist tuesday,5
+I would like to meet the neurologist on Tuesday.,Booking,48,would like meet neurologist tuesday,5
+I would like to meet the dentist on next Monday.,Booking,48,would like meet dentist next monday,6
+I would like to meet the pediatrician on tomorrow.,Booking,50,would like meet pediatrician tomorrow,5
+I would like to meet the doctor on Thursday.,Booking,44,would like meet doctor thursday,5
+I would like to meet the cardiologist on tomorrow.,Booking,50,would like meet cardiologist tomorrow,5
+I would like to meet the orthopedic specialist on Thursday.,Booking,59,would like meet orthoped specialist thursday,6
+I would like to meet the neurologist on Friday.,Booking,47,would like meet neurologist friday,5
+I would like to meet the doctor on this evening.,Booking,48,would like meet doctor even,5
+I would like to meet the pediatrician on Tuesday.,Booking,49,would like meet pediatrician tuesday,5
+I would like to meet the eye specialist on Saturday.,Booking,52,would like meet eye specialist saturday,6
+I would like to meet the pediatrician on Friday.,Booking,48,would like meet pediatrician friday,5
+I would like to meet the cardiologist on Monday.,Booking,48,would like meet cardiologist monday,5
+I would like to meet the doctor on next week.,Booking,45,would like meet doctor next week,6
+I would like to meet the ENT specialist on Monday.,Booking,50,would like meet ent specialist monday,6
+I would like to meet the physician on Monday.,Booking,45,would like meet physician monday,5
+I would like to meet the eye specialist on Thursday.,Booking,52,would like meet eye specialist thursday,6
+I would like to meet the doctor on Saturday.,Booking,44,would like meet doctor saturday,5
+I would like to meet the orthopedic specialist on tomorrow.,Booking,59,would like meet orthoped specialist tomorrow,6
+I would like to meet the dentist on this evening.,Booking,49,would like meet dentist even,5
+I would like to meet the dermatologist on Wednesday.,Booking,52,would like meet dermatologist wednesday,5
+I would like to meet the ENT specialist on Thursday.,Booking,52,would like meet ent specialist thursday,6
+I would like to meet the cardiologist on next Monday.,Booking,53,would like meet cardiologist next monday,6
+I would like to meet the ENT specialist on Friday.,Booking,50,would like meet ent specialist friday,6
+I would like to meet the dentist on Thursday.,Booking,45,would like meet dentist thursday,5
+I would like to meet the pediatrician on next week.,Booking,51,would like meet pediatrician next week,6
+I would like to meet the orthopedic specialist on Wednesday.,Booking,60,would like meet orthoped specialist wednesday,6
+I would like to meet the cardiologist on Tuesday.,Booking,49,would like meet cardiologist tuesday,5
+I would like to meet the doctor on Wednesday.,Booking,45,would like meet doctor wednesday,5
+I would like to meet the neurologist on next week.,Booking,50,would like meet neurologist next week,6
+I would like to meet the cardiologist on Thursday.,Booking,50,would like meet cardiologist thursday,5
+I would like to meet the orthopedic specialist on Tuesday.,Booking,58,would like meet orthoped specialist tuesday,6
+I would like to meet the dermatologist on Thursday.,Booking,51,would like meet dermatologist thursday,5
+I would like to meet the neurologist on next Monday.,Booking,52,would like meet neurologist next monday,6
+I would like to meet the cardiologist on this evening.,Booking,54,would like meet cardiologist even,5
+I would like to meet the neurologist on tomorrow.,Booking,49,would like meet neurologist tomorrow,5
+I would like to meet the doctor on Friday.,Booking,42,would like meet doctor friday,5
+I would like to meet the eye specialist on Wednesday.,Booking,53,would like meet eye specialist wednesday,6
+I would like to meet the dermatologist on Saturday.,Booking,51,would like meet dermatologist saturday,5
+I would like to meet the ENT specialist on next Monday.,Booking,55,would like meet ent specialist next monday,7
+I would like to meet the neurologist on Saturday.,Booking,49,would like meet neurologist saturday,5
+I would like to meet the orthopedic specialist on this evening.,Booking,63,would like meet orthoped specialist even,6
+I would like to meet the ENT specialist on Wednesday.,Booking,53,would like meet ent specialist wednesday,6
+I would like to meet the cardiologist on next week.,Booking,51,would like meet cardiologist next week,6
+I would like to meet the dentist on Wednesday.,Booking,46,would like meet dentist wednesday,5
+I would like to meet the orthopedic specialist on next Monday.,Booking,62,would like meet orthoped specialist next monday,7
+I would like to meet the dentist on Friday.,Booking,43,would like meet dentist friday,5
+I would like to meet the pediatrician on this evening.,Booking,54,would like meet pediatrician even,5
+I would like to meet the physician on Thursday.,Booking,47,would like meet physician thursday,5
+I would like to meet the physician on next Monday.,Booking,50,would like meet physician next monday,6
+I would like to meet the dermatologist on Friday.,Booking,49,would like meet dermatologist friday,5
+I would like to meet the orthopedic specialist on Monday.,Booking,57,would like meet orthoped specialist monday,6
+I would like to meet the cardiologist on Saturday.,Booking,50,would like meet cardiologist saturday,5
+I would like to meet the neurologist on this evening.,Booking,53,would like meet neurologist even,5
